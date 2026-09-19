@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gutierrez.crimap",
+      "sha256_cert_fingerprints": [
+        "47:F6:C6:E0:4E:8E:F5:9B:CA:C0:96:28:B6:9E:D8:13:2E:D7:BF:1E:56:CB:6C:97:DA:BE:A2:D8:44:91:06:D3"
+      ]
+    }
+  }
+]
